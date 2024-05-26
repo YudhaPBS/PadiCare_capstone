@@ -1,0 +1,121 @@
+21.3s 1 Found 2684 images belonging to 4 classes.
+21.4s 2 Found 671 images belonging to 4 classes.
+21.4s 3 Label Mappings for classes present in the training and validation datasets
+21.4s 4 
+21.4s 5 0 : BrownSpot
+21.4s 6 1 : Healthy
+21.4s 7 2 : Hispa
+21.4s 8 3 : LeafBlast
+73.3s 9 None
+79.8s 10 Epoch 1/50
+700.6s 11 84/84 - 621s - 7s/step - accuracy: 0.4415 - loss: 4.0823 - val_accuracy: 0.2817 - val_loss: 4.0618 - learning_rate: 0.0010
+700.6s 12 Epoch 2/50
+1295.2s 13 84/84 - 595s - 7s/step - accuracy: 0.4713 - loss: 1.9245 - val_accuracy: 0.2832 - val_loss: 1.3679 - learning_rate: 0.0010
+1295.2s 14 Epoch 3/50
+1896.2s 15 84/84 - 601s - 7s/step - accuracy: 0.4844 - loss: 1.6641 - val_accuracy: 0.2832 - val_loss: 2.1288 - learning_rate: 0.0010
+1896.2s 16 Epoch 4/50
+2498.1s 17 84/84 - 602s - 7s/step - accuracy: 0.5332 - loss: 1.4132 - val_accuracy: 0.3934 - val_loss: 2.2764 - learning_rate: 0.0010
+2498.2s 18 Epoch 5/50
+3122.7s 19 84/84 - 625s - 7s/step - accuracy: 0.5410 - loss: 1.2423 - val_accuracy: 0.2206 - val_loss: 3.6703 - learning_rate: 0.0010
+3122.7s 20 Epoch 6/50
+3752.5s 21 84/84 - 630s - 7s/step - accuracy: 0.5674 - loss: 1.1125 - val_accuracy: 0.3428 - val_loss: 2.4674 - learning_rate: 0.0010
+3752.5s 22 Epoch 7/50
+4355.8s 23 84/84 - 603s - 7s/step - accuracy: 0.5909 - loss: 1.0714 - val_accuracy: 0.1759 - val_loss: 3.1440 - learning_rate: 0.0010
+4355.8s 24 Epoch 8/50
+4977.0s 25 84/84 - 621s - 7s/step - accuracy: 0.6103 - loss: 0.9991 - val_accuracy: 0.4158 - val_loss: 2.2152 - learning_rate: 3.1623e-04
+4977.0s 26 Epoch 9/50
+5593.2s 27 84/84 - 616s - 7s/step - accuracy: 0.6136 - loss: 0.9516 - val_accuracy: 0.1133 - val_loss: 3.6494 - learning_rate: 3.1623e-04
+5593.2s 28 Epoch 10/50
+6199.8s 29 84/84 - 607s - 7s/step - accuracy: 0.6270 - loss: 0.9307 - val_accuracy: 0.1297 - val_loss: 3.7826 - learning_rate: 3.1623e-04
+6199.8s 30 Epoch 11/50
+6831.9s 31 84/84 - 632s - 8s/step - accuracy: 0.6356 - loss: 0.9234 - val_accuracy: 0.1893 - val_loss: 3.3744 - learning_rate: 3.1623e-04
+6831.9s 32 Epoch 12/50
+7432.9s 33 84/84 - 601s - 7s/step - accuracy: 0.6289 - loss: 0.9136 - val_accuracy: 0.1773 - val_loss: 4.0181 - learning_rate: 3.1623e-04
+7432.9s 34 Epoch 13/50
+8004.8s 35 84/84 - 572s - 7s/step - accuracy: 0.6349 - loss: 0.8780 - val_accuracy: 0.1043 - val_loss: 4.3402 - learning_rate: 1.0000e-04
+8004.9s 36 Epoch 14/50
+8617.4s 37 84/84 - 613s - 7s/step - accuracy: 0.6487 - loss: 0.8834 - val_accuracy: 0.1162 - val_loss: 3.9768 - learning_rate: 1.0000e-04
+8617.4s 38 Epoch 15/50
+9244.8s 39 84/84 - 627s - 7s/step - accuracy: 0.6442 - loss: 0.8585 - val_accuracy: 0.1371 - val_loss: 3.8158 - learning_rate: 1.0000e-04
+9244.8s 40 Epoch 16/50
+9863.7s 41 84/84 - 619s - 7s/step - accuracy: 0.6501 - loss: 0.8654 - val_accuracy: 0.1386 - val_loss: 3.6368 - learning_rate: 1.0000e-04
+9863.7s 42 Epoch 17/50
+10432.7s 43 84/84 - 569s - 7s/step - accuracy: 0.6431 - loss: 0.8495 - val_accuracy: 0.0969 - val_loss: 6.3495 - learning_rate: 1.0000e-04
+10432.7s 44 Epoch 18/50
+11048.2s 45 84/84 - 616s - 7s/step - accuracy: 0.6554 - loss: 0.8445 - val_accuracy: 0.1192 - val_loss: 4.2212 - learning_rate: 3.1623e-05
+11048.2s 46 Epoch 19/50
+11681.9s 47 84/84 - 634s - 8s/step - accuracy: 0.6580 - loss: 0.8245 - val_accuracy: 0.1192 - val_loss: 4.3256 - learning_rate: 3.1623e-05
+11681.9s 48 Epoch 20/50
+12244.9s 49 84/84 - 563s - 7s/step - accuracy: 0.6535 - loss: 0.8238 - val_accuracy: 0.1431 - val_loss: 4.0205 - learning_rate: 3.1623e-05
+12244.9s 50 Epoch 21/50
+12804.9s 51 84/84 - 560s - 7s/step - accuracy: 0.6461 - loss: 0.8343 - val_accuracy: 0.1759 - val_loss: 3.7746 - learning_rate: 3.1623e-05
+12804.9s 52 Epoch 22/50
+13374.3s 53 84/84 - 569s - 7s/step - accuracy: 0.6569 - loss: 0.8279 - val_accuracy: 0.1177 - val_loss: 4.2785 - learning_rate: 3.1623e-05
+13374.3s 54 Epoch 23/50
+13937.6s 55 84/84 - 563s - 7s/step - accuracy: 0.6740 - loss: 0.8109 - val_accuracy: 0.1311 - val_loss: 4.1772 - learning_rate: 1.0000e-05
+13937.6s 56 Epoch 24/50
+14563.4s 57 84/84 - 626s - 7s/step - accuracy: 0.6550 - loss: 0.8204 - val_accuracy: 0.1386 - val_loss: 4.0620 - learning_rate: 1.0000e-05
+14563.4s 58 Epoch 25/50
+15194.6s 59 84/84 - 631s - 8s/step - accuracy: 0.6591 - loss: 0.8294 - val_accuracy: 0.1237 - val_loss: 4.2359 - learning_rate: 1.0000e-05
+15194.6s 60 Epoch 26/50
+15803.4s 61 84/84 - 609s - 7s/step - accuracy: 0.6580 - loss: 0.8200 - val_accuracy: 0.1416 - val_loss: 4.1756 - learning_rate: 1.0000e-05
+15803.4s 62 Epoch 27/50
+16428.4s 63 84/84 - 625s - 7s/step - accuracy: 0.6591 - loss: 0.8131 - val_accuracy: 0.1520 - val_loss: 4.1601 - learning_rate: 1.0000e-05
+16428.4s 64 Epoch 28/50
+17001.6s 65 84/84 - 573s - 7s/step - accuracy: 0.6468 - loss: 0.8329 - val_accuracy: 0.1341 - val_loss: 4.2286 - learning_rate: 3.1623e-06
+17001.6s 66 Epoch 29/50
+17569.5s 67 84/84 - 568s - 7s/step - accuracy: 0.6580 - loss: 0.8177 - val_accuracy: 0.1311 - val_loss: 4.2326 - learning_rate: 3.1623e-06
+17569.5s 68 Epoch 30/50
+18189.5s 69 84/84 - 620s - 7s/step - accuracy: 0.6535 - loss: 0.8276 - val_accuracy: 0.1267 - val_loss: 4.3062 - learning_rate: 3.1623e-06
+18189.5s 70 Epoch 31/50
+18758.0s 71 84/84 - 569s - 7s/step - accuracy: 0.6669 - loss: 0.8114 - val_accuracy: 0.1311 - val_loss: 4.2195 - learning_rate: 3.1623e-06
+18758.0s 72 Epoch 32/50
+19381.3s 73 84/84 - 623s - 7s/step - accuracy: 0.6569 - loss: 0.8196 - val_accuracy: 0.1252 - val_loss: 4.3278 - learning_rate: 3.1623e-06
+19381.3s 74 Epoch 33/50
+19996.7s 75 84/84 - 615s - 7s/step - accuracy: 0.6520 - loss: 0.8183 - val_accuracy: 0.1282 - val_loss: 4.2818 - learning_rate: 1.0000e-06
+19996.7s 76 Epoch 34/50
+20623.3s 77 84/84 - 627s - 7s/step - accuracy: 0.6632 - loss: 0.8115 - val_accuracy: 0.1252 - val_loss: 4.3236 - learning_rate: 1.0000e-06
+20623.3s 78 Epoch 35/50
+21248.8s 79 84/84 - 626s - 7s/step - accuracy: 0.6699 - loss: 0.7935 - val_accuracy: 0.1252 - val_loss: 4.3262 - learning_rate: 1.0000e-06
+21248.8s 80 Epoch 36/50
+21816.9s 81 84/84 - 568s - 7s/step - accuracy: 0.6602 - loss: 0.8192 - val_accuracy: 0.1267 - val_loss: 4.2757 - learning_rate: 1.0000e-06
+21816.9s 82 Epoch 37/50
+22440.8s 83 84/84 - 624s - 7s/step - accuracy: 0.6516 - loss: 0.8184 - val_accuracy: 0.1282 - val_loss: 4.2539 - learning_rate: 1.0000e-06
+22440.8s 84 Epoch 38/50
+23058.3s 85 84/84 - 617s - 7s/step - accuracy: 0.6606 - loss: 0.8152 - val_accuracy: 0.1282 - val_loss: 4.2670 - learning_rate: 3.1623e-07
+23058.3s 86 Epoch 39/50
+23684.3s 87 84/84 - 626s - 7s/step - accuracy: 0.6598 - loss: 0.8175 - val_accuracy: 0.1282 - val_loss: 4.2770 - learning_rate: 3.1623e-07
+23684.3s 88 Epoch 40/50
+24249.2s 89 84/84 - 565s - 7s/step - accuracy: 0.6528 - loss: 0.8241 - val_accuracy: 0.1282 - val_loss: 4.2703 - learning_rate: 3.1623e-07
+24249.2s 90 Epoch 41/50
+24818.0s 91 84/84 - 569s - 7s/step - accuracy: 0.6610 - loss: 0.8115 - val_accuracy: 0.1282 - val_loss: 4.2687 - learning_rate: 3.1623e-07
+24818.0s 92 Epoch 42/50
+25437.5s 93 84/84 - 620s - 7s/step - accuracy: 0.6565 - loss: 0.8138 - val_accuracy: 0.1282 - val_loss: 4.2470 - learning_rate: 3.1623e-07
+25437.5s 94 Epoch 43/50
+26065.4s 95 84/84 - 628s - 7s/step - accuracy: 0.6580 - loss: 0.8187 - val_accuracy: 0.1282 - val_loss: 4.2654 - learning_rate: 1.0000e-07
+26065.4s 96 Epoch 44/50
+26683.0s 97 84/84 - 618s - 7s/step - accuracy: 0.6643 - loss: 0.8217 - val_accuracy: 0.1282 - val_loss: 4.2559 - learning_rate: 1.0000e-07
+26683.0s 98 Epoch 45/50
+27253.8s 99 84/84 - 571s - 7s/step - accuracy: 0.6602 - loss: 0.8120 - val_accuracy: 0.1282 - val_loss: 4.2510 - learning_rate: 1.0000e-07
+27253.8s 100 Epoch 46/50
+27824.2s 101 84/84 - 570s - 7s/step - accuracy: 0.6580 - loss: 0.8203 - val_accuracy: 0.1282 - val_loss: 4.2495 - learning_rate: 1.0000e-07
+27824.2s 102 Epoch 47/50
+28391.7s 103 84/84 - 568s - 7s/step - accuracy: 0.6580 - loss: 0.8298 - val_accuracy: 0.1282 - val_loss: 4.2614 - learning_rate: 1.0000e-07
+28391.7s 104 Epoch 48/50
+28967.5s 105 84/84 - 576s - 7s/step - accuracy: 0.6624 - loss: 0.8092 - val_accuracy: 0.1282 - val_loss: 4.2606 - learning_rate: 3.1623e-08
+28967.5s 106 Epoch 49/50
+29581.2s 107 84/84 - 613s - 7s/step - accuracy: 0.6602 - loss: 0.7947 - val_accuracy: 0.1282 - val_loss: 4.2635 - learning_rate: 3.1623e-08
+29581.2s 108 Epoch 50/50
+30208.3s 109 84/84 - 627s - 7s/step - accuracy: 0.6692 - loss: 0.8013 - val_accuracy: 0.1282 - val_loss: 4.2438 - learning_rate: 3.1623e-08
+30265.5s 110 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["remove_papermill_header.RemovePapermillHeader"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+30265.5s 111 warn(
+30265.5s 112 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+30265.6s 113 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+30266.1s 114 [NbConvertApp] Writing 1235926 bytes to __notebook__.ipynb
+30267.8s 115 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["nbconvert.preprocessors.ExtractOutputPreprocessor"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+30267.8s 116 warn(
+30267.8s 117 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+30267.9s 118 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+30269.3s 119 [NbConvertApp] Support files will be in __results___files/
+30269.3s 120 [NbConvertApp] Making directory __results___files
+30269.3s 121 [NbConvertApp] Writing 311816 bytes to __results__.html
